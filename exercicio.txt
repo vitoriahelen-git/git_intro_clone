@@ -1,0 +1,22 @@
+Sequencia de comandos
+
+git add calculadora.py
+git status
+git commit ap01(git): divisao implementada
+git push
+git status
+git add teste_calculadora.py
+git status -s
+git commit ap01(git): divisao testada
+git push 
+git tag 
+git tag -a v1.2.0 4b31c7
+git tag -a v1.2.1 163c1
+git log --pretty-oneline
+git log --pretty-oneline
+git tag -d v1.2.1
+git log --pretty=oneline
+git push origin --tags
+
+
+
